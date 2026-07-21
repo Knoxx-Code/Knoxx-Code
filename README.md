@@ -57,31 +57,31 @@ Portfolio site — engagement log, tools, and write-up index.
 ## Toolset
 
 <div align="center">
-
+  
 **Offensive Security**
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-e63946?style=flat-square&logo=burpsuite&logoColor=white&labelColor=0d0d0d)
-![Metasploit](https://img.shields.io/badge/Metasploit-e63946?style=flat-square&logo=metasploit&logoColor=white&labelColor=0d0d0d)
-![Nmap](https://img.shields.io/badge/Nmap-e63946?style=flat-square&logo=nmap&logoColor=white&labelColor=0d0d0d)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-e63946?style=flat-square&logo=owasp&logoColor=white&labelColor=0d0d0d)
-![Wireshark](https://img.shields.io/badge/Wireshark-e63946?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d0d0d)
-![Jadx](https://img.shields.io/badge/Jadx-e63946?style=flat-square&logo=android&logoColor=white&labelColor=0d0d0d)
-
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-1F4E5F?style=flat&logo=nmap&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Jadx](https://img.shields.io/badge/Jadx-3DDC84?style=flat&logo=android&logoColor=white)
+ 
 **SecOps**
-![Splunk](https://img.shields.io/badge/Splunk-e63946?style=flat-square&logo=splunk&logoColor=white&labelColor=0d0d0d)
-![Sentinel](https://img.shields.io/badge/MS_Sentinel-e63946?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0d0d0d)
-![Shodan](https://img.shields.io/badge/Shodan-e63946?style=flat-square&logo=shodan&logoColor=white&labelColor=0d0d0d)
-
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Sentinel](https://img.shields.io/badge/MS_Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-CF142B?style=flat&logo=shodan&logoColor=white)
+ 
 **Languages**
-![Python](https://img.shields.io/badge/Python-e63946?style=flat-square&logo=python&logoColor=white&labelColor=0d0d0d)
-![Bash](https://img.shields.io/badge/Bash-e63946?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d0d0d)
-![PowerShell](https://img.shields.io/badge/PowerShell-e63946?style=flat-square&logo=powershell&logoColor=white&labelColor=0d0d0d)
-![PHP](https://img.shields.io/badge/PHP-e63946?style=flat-square&logo=php&logoColor=white&labelColor=0d0d0d)
-![C#](https://img.shields.io/badge/C%23-e63946?style=flat-square&logo=csharp&logoColor=white&labelColor=0d0d0d)
-![JavaScript](https://img.shields.io/badge/JavaScript-e63946?style=flat-square&logo=javascript&logoColor=white&labelColor=0d0d0d)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+ 
 **Cloud**
-![AWS](https://img.shields.io/badge/AWS-e63946?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d0d0d)
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+ 
 </div>
 
 <br>
