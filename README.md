@@ -39,7 +39,7 @@ BookStore, CMSpit, Simple CTF, and a multi-subdomain assessment - CVE chains, LF
  
 **[Mobile Security](https://github.com/Knoxx-Code/security-writeups/tree/main/mobile-security)**
  
-Android APK analysis — hardcoded secrets, insecure storage, exported components, WebView & biometric bypass.
+Android APK analysis: hardcoded secrets, insecure storage, exported components, WebView & biometric bypass.
  
 </td>
 </tr>
