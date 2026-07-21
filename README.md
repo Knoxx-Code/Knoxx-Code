@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/Knoxx-Code/Knoxx-Code/main/intro.gif" width="100%" alt="intro" />
 
-**I build systems. And also break them.**
+**I break and I build things.**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e63946,100:0d0d0d&height=3&section=header" width="100%"/>
 
