@@ -30,14 +30,14 @@
 <tr>
 <td width="50%" valign="top">
  
-**[Web Pentesting](https://github.com/Knoxx-Code/security-writeups/tree/main/web-pentesting)**
+**[Web Security](https://github.com/Knoxx-Code/security-writeups/tree/main/web-security)**
  
 BookStore, CMSpit, Simple CTF, and a multi-subdomain assessment — CVE chains, LFI-to-root, SQLi to full DB dump.
  
 </td>
 <td width="50%" valign="top">
  
-**[Mobile Pentesting](https://github.com/Knoxx-Code/security-writeups/tree/main/mobile-security)**
+**[Mobile Security](https://github.com/Knoxx-Code/security-writeups/tree/main/mobile-security)**
  
 Android APK analysis — hardcoded secrets, insecure storage, exported components, WebView & biometric bypass.
  
