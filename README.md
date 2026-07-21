@@ -8,8 +8,6 @@
 
 **I build systems. And also break them.**
 
-Offensive Security & Secure Engineering
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e63946,100:0d0d0d&height=3&section=header" width="100%"/>
 
 </div>
