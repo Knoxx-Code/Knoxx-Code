@@ -19,7 +19,7 @@
 <div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=e63946)](https://www.linkedin.com/in/winstonmutinda/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0id2hpdGUiLz48dGV4dCB4PSIxMiIgeT0iMTciIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9ImJvbGQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9ImJsYWNrIj5pbjwvdGV4dD48L3N2Zz4=&logoColor=white)](https://www.linkedin.com/in/winstonmutinda/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=e63946)](https://winston-mutinda.vercel.app)
 
 </div>
@@ -32,7 +32,7 @@
  
 **[Web Security](https://github.com/Knoxx-Code/security-writeups/tree/main/web-security)**
  
-BookStore, CMSpit, Simple CTF, and a multi-subdomain assessment — CVE chains, LFI-to-root, SQLi to full DB dump.
+BookStore, CMSpit, Simple CTF, and a multi-subdomain assessment - CVE chains, LFI-to-root, SQLi to full DB dump.
  
 </td>
 <td width="50%" valign="top">
@@ -48,14 +48,14 @@ Android APK analysis — hardcoded secrets, insecure storage, exported component
  
 **[Real-World Engagement](https://github.com/Knoxx-Code/security-writeups/tree/main/real-world-engagements/pentest-web-api-event-platform)**
  
-Authorised black-box pentest, private client — 9 findings, 3 Critical, full remediation report.
+Authorised black-box pentest, private client:  9 findings, 3 Critical, full remediation report.
  
 </td>
 <td width="50%" valign="top">
  
 **[Portfolio](https://winston-mutinda.vercel.app)**
  
-Portfolio site — engagement log, tools, and write-up index.
+Portfolio site
  
 </td>
 </tr>
